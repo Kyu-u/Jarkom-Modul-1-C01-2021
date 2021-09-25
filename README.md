@@ -52,7 +52,7 @@ Ada 500 file zip yang disimpan ke FTP Server dengan nama 0.zip, 1.zip, 2.zip, ..
 **Filter**: ```ftp-data && frame contains "Real.pdf"``` <br>
 **Cara pengerjaan**: Masukkan display filter di atas kemudian Follow TCP Stream dan ganti show data as “raw” dan save data sebagai zip. <br>
 **Screenshot**: <br>
-![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal7.png) <br>
+![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal7.jpg) <br>
 ## Soal 8
 **Filter**:  <br>
 **Cara pengerjaan**: <br>
