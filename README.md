@@ -52,7 +52,7 @@ Ada 500 file zip yang disimpan ke FTP Server dengan nama 0.zip, 1.zip, 2.zip, ..
 **Screenshot**: <br>
 ![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal7.jpg) <br>
 ## Soal 8
-**Filter**:  ```ftp.response.code == 150 || ftp.response.code == 226``` <br>
+**Filter**:  ```ftp.request.command == STOR``` <br>
 **Cara pengerjaan**: 
 - Masukkan display filter diatas
 **Screenshot**: <br>
