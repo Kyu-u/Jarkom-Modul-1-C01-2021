@@ -52,9 +52,12 @@ Ada 500 file zip yang disimpan ke FTP Server dengan nama 0.zip, 1.zip, 2.zip, ..
 **Screenshot**: <br>
 ![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal7.jpg) <br>
 ## Soal 8
-**Filter**:  <br>
-**Cara pengerjaan**: <br>
+**Filter**:  ```ftp.response.code == 150 || ftp.response.code == 226``` <br>
+**Cara pengerjaan**: 
+- Masukkan display filter diatas
 **Screenshot**: <br>
+![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal8.jpg) <br>
+
 ## Soal 9
 Dari paket-paket yang menuju FTP terdapat inidkasi penyimpanan beberapa file. Salah satunya adalah sebuah file berisi data rahasia dengan nama "secret.zip". Simpan dan buka file tersebut! <br>
 **Filter**: ```ftp-data.command contains "secret.zip"``` <br>
@@ -88,6 +91,7 @@ Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 **Cara pengerjaan**:
 - Masukkan Capture filter di atas.<br>
 **Screenshot**: <br>
+![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal12.jpg) <br>
 
 
 ## Soal 13
@@ -104,6 +108,7 @@ Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
 **Cara pengerjaan**:
 - Masukkan Capture filter di atas.<br>
 **Screenshot**: <br>
+![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal14.jpg) <br>
 
 
 ## Soal 15
