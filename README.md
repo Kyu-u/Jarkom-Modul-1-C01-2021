@@ -77,37 +77,43 @@ Selain itu terdapat "history.txt" yang kemungkinan berisi history bash server te
 Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80! 
 **Filter**: ```src port 80``` <br>
 **Cara pengerjaan**:
-- Masukkan Capture filter di atas.
+- Masukkan Capture filter di atas.<br>
 **Screenshot**: <br>
+![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal11.jpg) <br>
+
 
 ## Soal 12
 Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 **Filter**: ```port 21``` <br>
 **Cara pengerjaan**:
-- Masukkan Capture filter di atas.
+- Masukkan Capture filter di atas.<br>
 **Screenshot**: <br>
+
 
 ## Soal 13
 Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
 **Filter**: ```dst port 443``` <br>
 **Cara pengerjaan**:
-- Masukkan Display filter di atas.
+- Masukkan Display filter di atas.<br>
 **Screenshot**: <br>
+![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal13.jpg) <br>
 
 ## Soal 14
 Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
 **Filter**: ```dst host kemenag.go.id``` <br>
 **Cara pengerjaan**:
-- Masukkan Capture filter di atas.
+- Masukkan Capture filter di atas.<br>
 **Screenshot**: <br>
+
 
 ## Soal 15
 Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 **Filter**: ```src host 192.168.43.186``` <br>
 **Cara pengerjaan**:
 - Mencari ip nya dari ipconfig command prompt
-- Masukkan Capture filter di atas.
+- Masukkan Capture filter di atas berdasarkan ip yang sudah kita cari sebelumnya.<br>
 **Screenshot**: <br>
+![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal15.jpg) <br>
 
 
 
