@@ -54,7 +54,7 @@ Ada 500 file zip yang disimpan ke FTP Server dengan nama 0.zip, 1.zip, 2.zip, ..
 ## Soal 8
 **Filter**:  ```ftp.request.command == STOR``` <br>
 **Cara pengerjaan**: 
-- Masukkan display filter diatas
+- Masukkan display filter diatas <br>
 **Screenshot**: <br>
 ![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal8.jpg) <br>
 
