@@ -2,7 +2,7 @@
 
 # Anggota Kelompok
 - 
-- **Muhammad Arifiansyah** (05111940000027)
+- 
 -
 
 # Pembahasan Soal
