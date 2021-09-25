@@ -25,8 +25,6 @@ Temukan paket dari web-web yang menggunakan basic authentication method! <br>
 **Screenshot**: <br>
 ![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal3a.png) <br>
 ![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal3b.png) <br>
-**Screenshot**: <br>
-![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal2.png) <br>
 ## Soal 4
  Temukan paket mysql yang mengandung perintah query select! <br>
 **Filter**: ```mysql.query matches select``` <br>
