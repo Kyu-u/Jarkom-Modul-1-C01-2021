@@ -7,3 +7,7 @@
 
 # Pembahasan Soal
 ## Soal 1
+Sebutkan webserver yang digunakan pada "ichimarumaru.tech"! <br>
+**Filter**: ```http.host == "ichimarumaru.tech"``` <br>
+**Cara pengerjaan**: Setelah memasukkan filter di atas pada display filter, pilih salah satu packet dan follow TCP Stream.
+**Screenshot**: <br>
