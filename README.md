@@ -64,7 +64,7 @@ Dari paket-paket yang menuju FTP terdapat inidkasi penyimpanan beberapa file. Sa
 **Screenshot**: <br>
 ![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal9a.png) <br>
 ![alt text](https://github.com/Kyu-u/Jarkom-Modul-1-C01-2021/blob/main/images/soal9b.png) <br>
-## Soal 9
+## Soal 10
 Selain itu terdapat "history.txt" yang kemungkinan berisi history bash server tersebut! Gunakan isi dari "history.txt" untuk menemukan password untuk membuka file rahasia yang ada di "secret.zip"! <br>
 **Filter**: ```ftp-data.command contains "history.txt"``` <br>
 **Cara pengerjaan**:
